@@ -1,0 +1,13 @@
+{
+  "name": "bhagavad-gita",
+  "version": "1.0.0",
+  "description": "A webpage displaying the first chapter of the Bhagavad Gita in Devanagari and English",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.15"
+  }
+}
